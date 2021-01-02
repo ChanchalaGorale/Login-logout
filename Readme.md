@@ -10,6 +10,8 @@
 ## Download and run below commands to see the working application
 
 - $ npm install
+- In config/keys.js update the value of MongoURI as per your account in mongodb. 
+**Note:** Do not forget to add the passport and dbname.
 - $ npm start 
 - Visit http://localhost:5000
 
