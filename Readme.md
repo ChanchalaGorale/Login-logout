@@ -1,5 +1,8 @@
 # Login-logout project
 
+I have used **Node.js + express + MongoDB** to create an successfull login-logout application.
+
+
 ## Start by installing below packages:
 - npm i express bcryptjs passport passport-local ejs express-ejs-layouts mongoose connect-flash express-session 
 - npm i -D nodemon
