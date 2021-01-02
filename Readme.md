@@ -16,3 +16,6 @@
 - $ npm start 
 - Visit http://localhost:5000
 
+## Customize
+- **To change the Icons:** Use https://fontawesome.com/
+- **To change the Theme:** Use https://bootswatch.com/
