@@ -2,9 +2,9 @@
 
 I have used **Node.js + express + MongoDB** to create an successfull login-logout application.
 
-## Used https://www.mongodb.com/cloud/atlas for database.
+### Used https://www.mongodb.com/cloud/atlas for database.
 
-## Download and run below commands to see the working application
+### Download and run below commands to see the working application
 
 - $ npm install
 - In config/keys.js update the value of MongoURI as per your account in mongodb. 
@@ -13,7 +13,7 @@ I have used **Node.js + express + MongoDB** to create an successfull login-logou
 - $ npm start 
 - Visit localhost
 
-## Customize
+### Customize
 - **To change the Icons:** Use https://fontawesome.com/
 - **To change the Theme:** Use https://bootswatch.com/
 
